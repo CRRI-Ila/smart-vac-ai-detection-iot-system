@@ -167,6 +167,8 @@ Device → Cloud Logic → Device
 ------------------------------------------------------------
 
 8) SWITCH NODE (FILTER)
+ 
+<img width="413" height="226" alt="image" src="https://github.com/user-attachments/assets/ce3c1063-6bf9-4413-94b5-fc681ae68abf" />
 
 The second branch goes into a Switch node.
 
@@ -183,8 +185,8 @@ Why?
 ------------------------------------------------------------
 
 9) WHATSAPP ALERT
-    
-<img width="413" height="226" alt="image" src="https://github.com/user-attachments/assets/ce3c1063-6bf9-4413-94b5-fc681ae68abf" />
+
+ <img width="294" height="228" alt="image" src="https://github.com/user-attachments/assets/9c63a9d5-2d70-42e8-9d6b-55faf5ff6083" />
 
 If clogged condition passes the Switch node,
 a WhatsApp message is sent via API.
